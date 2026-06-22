@@ -1,0 +1,6 @@
+{
+  "name": "Frappe Pre-commit Checks",
+  "description": "Runs ruff, bandit, and Frappe-specific hooks on every PR and push",
+  "iconName": "octicon python",
+  "categories": ["Python", "Frappe", "ERPNext"]
+}
